@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(213, 226, 255);
+    margin: 0;
+}
+
+#content {
+    margin: 5em 25%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 2em;
+    padding-inline-start: 20px;
+}
+
+hr {
+    border-style: solid;
+}
+
+p, ul {
+    font-size: 1.1em;
+    padding-inline-start: 40px;
+}
+
+img {
+    display: block;
+    height: 12em;
+    margin: 3em;
+}
+
+a {
+    text-decoration: none;
+}
